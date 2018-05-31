@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\DATA\Documents\Personal\KotlinProjects\ZooApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="520bc0675748a798d5be7ffcef5527a67e815c4e">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\ZooApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f8bb2bb1737f95684196089b2b23273cd4eefc0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Libra\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.2.41\9e7a6f582de73d9cdc6c56ef4e23604a0ee55768\kotlin-stdlib-jre7-1.2.41.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e7a6f582de73d9cdc6c56ef4e23604a0ee55768">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\ZooApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jre7-1.2.41_8a6a5a62f85e8ada0cc3f0d5588bb6b80c0fe02f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DATA\Documents\Personal\KotlinProjects\ZooApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\DATA\Documents\Personal\KotlinProjects\ZooApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_41f9f1ac4ab6829a29b1228003befc48ac4974ef\classes.dex" />
+    </item>
+
+</items>
